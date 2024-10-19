@@ -1,8 +1,5 @@
 # speech-recognition
 
-Here's a sample `README.md` for your GitHub project:
-
----
 
 # Speech to Text Converter with GUI
 
@@ -27,7 +24,7 @@ This project is a simple **Speech to Text Converter** built using Python. It fea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/speech-to-text-gui.git
+   git clone https://github.com/your-username/speech-to-text-gui](https://github.com/sarthaksahu03/speech-recognition.git
    cd speech-to-text-gui
    ```
 
